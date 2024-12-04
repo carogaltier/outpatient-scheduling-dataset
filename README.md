@@ -91,3 +91,19 @@ The dataset simulates a medical office operating Monday to Friday, from 8:00 AM 
 2. Cerruti, B., Garavaldi, D., & Lerario, A. (2023). *Patient's punctuality in an outpatient clinic: the role of age, medical branch and geographical factors.* BMC Health Services Research, 23(1), 1385. [https://doi.org/10.1186/s12913-023-10379-w](https://doi.org/10.1186/s12913-023-10379-w)
 3. NHS England. (2024). *Outpatient appointment numbers and percentages for selected attendance types 2023-24.* Hospital Episode Statistics.
 4. Rao, A., Shi, Z., Ray, K. N., Mehrotra, A., & Ganguli, I. (2019). *National Trends in Primary Care Visit Use and Practice Capabilities, 2008–2015.* Annals of Family Medicine, 17(6), 538–544. [https://doi.org/10.1370/afm.2474](https://doi.org/10.1370/afm.2474)
+
+
+## Author
+
+**María Carolina González Galtier**
+
+- [Profile](https://github.com/carogaltier "María Carolina González Galtier")
+
+## License
+[GNU General Public License v3.0](https://choosealicense.com/licenses/gpl-3.0/)
+
+## 🤝 Support
+
+Contributions, issues, and feature requests are welcome!
+
+Give a ⭐️ if you like this project!

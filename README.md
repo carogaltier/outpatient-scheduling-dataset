@@ -1,5 +1,7 @@
 # Synthetic Outpatient Scheduling Dataset (2016–2025)
 
+![Simulated Outpatient Appointments](Simulated%20outpatient%20appointments.png)
+
 ## Description
 
 This dataset simulates a realistic outpatient appointment scheduling system, generated using the open-source Python library **[Medscheduler (v0.2.2)](https://github.com/carogaltier/medscheduler)**.  
